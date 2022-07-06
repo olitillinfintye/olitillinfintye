@@ -1,3 +1,4 @@
+
 <h1 align="center">Hola 👋, I'm oliyad tesfaye</h1>
 
 <p align="center">
@@ -11,7 +12,7 @@
 </p>
 <br><br>
 
-<img align="right" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
+<img align="right" width=300px height=300px alt="side_sticker" src="https://cdn.dribbble.com/users/320114/screenshots/2575134/media/7ffbc597d322d39017f3f2696b8def6e.gif" />
 
 <p align="left"> <a href="https://twitter.com/tillinfintye" target="blank"><img src="https://img.shields.io/twitter/follow/tillinfintye?logo=twitter&style=for-the-badge" alt="tillinfintye" /></a> </p>
 
