@@ -1,5 +1,5 @@
 
-<h1 align="center">Hola 👋, I'm oliyad tesfaye</h1>
+<h1 align="center"> I'm Oliyad Tesfaye</h1>
 
 <p align="center">
   <em>
